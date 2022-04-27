@@ -1,7 +1,5 @@
 '''
 @Marvens Chery
-@matricule e2162809
-@version 1.1 06-12-2021
 '''
 prenom = str(input("Quel est le prénom du caissier(ère)? : "))
 print("Bonjour",prenom,", bon courage en cette journée de travail ! ")
